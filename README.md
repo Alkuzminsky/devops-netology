@@ -8,8 +8,8 @@
 
 Содержащие в названии .tfstate
 
-   *.tfstate
-   *.tfstate.*
+   \*.tfstate
+   \*.tfstate.*
 
 Вот эти конкретные файлы
  
