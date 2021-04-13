@@ -20,7 +20,9 @@ override.tf.json
 
 Оканчивающиеся на ...
 
-/*.tfvars
-/*_override.tf
-/*_override.tf.json
+/*.tfvars 
+
+/*_override.tf 
+
+/*_override.tf.json 
  
