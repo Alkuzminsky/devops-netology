@@ -4,12 +4,7 @@
 
 Каталоги и подкаталоги с названием .terraform
  
-**/.terraform/*
-
 Содержащие в названии .tfstate
-
-   \*.tfstate
-   \*.tfstate.*
 
 Вот эти конкретные файлы
  
@@ -25,7 +20,7 @@ override.tf.json
 
 Оканчивающиеся на ...
 
-*.tfvars
-*_override.tf
-*_override.tf.json
+/*.tfvars
+/*_override.tf
+/*_override.tf.json
  
