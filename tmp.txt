@@ -1,0 +1,22 @@
+Файлы, которые будут проинторированы в каталоге terraform:
+
+# каталоги и подкаталоги с названием .terraform
+**/.terraform/*
+
+# Содержащие в названии .tfstate
+*.tfstate
+*.tfstate.*
+
+# Вот эти конкретные файлы
+crash.log
+.terraformrc
+terraform.rc
+override.tf
+override.tf.json
+
+# оканчивающиеся на .tfvars
+*.tfvars
+
+# ... и всё, что оканчивается на это
+*_override.tf
+*_override.tf.json
