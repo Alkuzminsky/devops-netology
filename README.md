@@ -14,9 +14,13 @@
 Вот эти конкретные файлы
  
 crash.log
+
 .terraformrc
+
 terraform.rc
+
 override.tf
+
 override.tf.json
 
 Оканчивающиеся на ...
